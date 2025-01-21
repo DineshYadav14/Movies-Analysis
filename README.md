@@ -6,8 +6,8 @@ DATASETS- These 3 Datasets have been provided by the coaching institute.
     1.Movies
     2.Users
     3.Ratings
+    
 Steps in the Analysis. -
-Summarize the main steps in the notebook:
 Data Import and Cleaning: Imported the dataset and handled missing or inconsistent values. 
 Exploratory Data Analysis (EDA): Explored patterns in movie genres, revenue trends, and ratings.
 Data Visualization: Created charts and graphs to visualize trends and key insights.
