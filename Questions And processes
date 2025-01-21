@@ -1,0 +1,10 @@
+ the following process and Questions solved in this project:
+1) Clean, filter and Load data as necessary for analysis. Develop appropriate models.
+2) Use Data Analysis and mining techniques to develop solutions to queries as given below:
+   i) Total number of movies released in each year. Display year and the count.
+  ii) Find the movie category having highest ratings in each year. The output should comprise of YearofRelease, Category, CountOfMovies having highest rating.
+  iii) Find and display movie category and age group wise likings. This may be based on the highest number of users from each age group rated for that movie category.
+  iv) Use Cluster models to segregate movie category and age group wise likings.
+  v) Display year wise count of movies released.
+  vi) Display year wise, category wise count of movies released.
+ Use Python based libraries for data mining and analytics project development.
